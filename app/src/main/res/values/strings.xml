@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BasketBall Match Schedule</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="teams">Prev. Match</string>
+    <string name="favorites">Next Match</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="playing_date">Playing Date</string>
+    <string name="home_team_name">Home Team Namesdsdsd</string>
+    <string name="vs">VS</string>
+    <string name="initial_score">000</string>
+    <string name="away_team_name">Away Team Namesdsdsd</string>
+</resources>
